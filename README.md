@@ -3,7 +3,7 @@
 ### Hi 👋
 I am student looking for opportunities and collabaration in projects related to application development.
 
-- 🐱‍🏍 Currrently, I work with Logistic Coordinator in segment of breway with nine years of experience. I have graduation in Logistic and posgraduated in management os peoples.
+- 🐱‍🏍 Currrently, I work with Logistic Coordinator in segment of breway with nine years of experience. I have graduation in Logistic and posgraduated in management of peoples.
 
 - 🔭 I’m currently studying and brushing up my data structures and algorithms skills regularly.
 
