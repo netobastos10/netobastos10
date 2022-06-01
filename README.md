@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/98365039?v=4">
 
 ### Hi 👋
-I am student looking for opportunities and collabaration in projects related to application development.
+I am student looking for opportunities and colabaration in projects related to application development.
 
 - 🐱‍🏍 Currrently, I work with Logistic Coordinator in segment of breway with nine years of experience. I have graduation in Logistic and posgraduated in management of peoples.
 
